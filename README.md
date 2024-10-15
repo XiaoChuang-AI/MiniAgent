@@ -56,7 +56,7 @@ from miniagent.prompt import ReactPromptTemplate
 
 # define a llm
 api_key = "xxx"
-llm = ChatGPT(api_key=api_keymodel_name="gpt-3.5-turbo")
+llm = ChatGPT(api_key=api_key, model_name="gpt-3.5-turbo")
 
 # define tools
 tools = ToolList([PDFReaderTool(max_length=8000)])
