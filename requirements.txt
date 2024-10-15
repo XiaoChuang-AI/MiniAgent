@@ -1,0 +1,10 @@
+ftfy
+loguru
+openai
+httpx
+yagmail
+arxiv
+git+https://github.com/tasos-py/Search-Engines-Scraper.git
+langchain_community
+bs4
+pypdf
