@@ -3,3 +3,4 @@ others
 __pycache__
 notebook
 outputs
+*.gif
