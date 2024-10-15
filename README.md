@@ -14,13 +14,13 @@ Welcome to **MiniAgent**! This framework simplifies the creation of agent-based 
 
 **ArxivBot**
     
-This agent can search the related paper from arxiv and send them to the specified email.
+This agent can search the related papers from Arxiv and send them to the specified email.
 
 ![framework](./assets/case-1.gif)
 
 **CVBot**
         
-This agent can parse a CV with PDF format, and summary it's content.
+This agent can parse a CV in PDF format and summarize it's content.
 
 ![framework](./assets/case-2.gif)
 
@@ -156,8 +156,8 @@ The following tools are supported:
 4. **PDF Reader**: Convert PDF files into text format for easy access.
 5. **Scrap**: Extract information from specified URLs.
 
-For more detailed information about these tools, please refer to [docs/tools.md](docs/tools.md).
+For more detailed information about these tools, please see [docs/tools.md](docs/tools.md).
 
 
 ## Acknowledgement
-This project ed was supported by [Likelyhood Lab](http://www.maxlikelihood.cn/). If you have any questions, please feel free to post an issue or land an email to rayyang0116@gmail.com.
+This project was supported by [Likelihood Lab](http://www.maxlikelihood.cn/). If you have any questions, please feel free to post an issue or email rayyang0116@gmail.com.
